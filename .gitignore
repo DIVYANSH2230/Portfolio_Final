@@ -1,0 +1,5 @@
+git status
+git add index.html style.css script.js chatbot.js chatbot.css config.example.js .gitignore README.md
+git diff --cached
+git commit -m "Add local AI chatbox to portfolio"
+git push origin main
